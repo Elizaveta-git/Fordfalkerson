@@ -1,0 +1,5 @@
+﻿  FordFalkersonAlgTests.cpp
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\FordFalkersonAlg\Rib.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\FordFalkersonAlg\FordFalkersonAlg.cpp(14,22): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\FordFalkersonAlg\Debug\FordFalkersonAlgTests.lib и объект C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\FordFalkersonAlg\Debug\FordFalkersonAlgTests.exp
+  FordFalkersonAlgTests.vcxproj -> C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\FordFalkersonAlg\Debug\FordFalkersonAlgTests.dll
